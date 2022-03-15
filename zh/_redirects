@@ -25,14 +25,14 @@ https://istio.netlify.com/* https://istio.io/:splat 301!
 /zh/* /latest/zh/:splat
 
 # Redirect for the helm charts
-/charts/ https://storage.googleapis.com/istio-release/releases/1.14.0/charts/ 301
+/charts/ https://storage.googleapis.com/istio-release/releases/1.13.1/charts/ 301
 
 # Redirects for all aliases
 /zh/docs/welcome/faq.html          	/zh/about/faq/
 /zh/docs/reference/faq.html        	/zh/about/faq/
 /zh/help/faq/                      	/zh/about/faq/
 /zh/faq.html                       	/zh/about/faq/
-/-tw/community                     	/zh/about/community/
+/zh/community                      	/zh/about/community/
 /zh/about/notes/1.1                	/zh/news/releases/1.1.x/announcing-1.1/change-notes/
 /zh/about/notes/1.2                	/zh/news/releases/1.2.x/announcing-1.2/change-notes/
 /zh/about/notes/1.3                	/zh/news/releases/1.3.x/announcing-1.3/change-notes/
@@ -62,7 +62,6 @@ https://istio.netlify.com/* https://istio.io/:splat 301!
 /zh/news/announcing-1.9.9          	/zh/news/releases/1.9.x/announcing-1.9.9/
 /zh/news/announcing-1.10.5         	/zh/news/releases/1.10.x/announcing-1.10.5/
 /zh/news/announcing-1.11.3         	/zh/news/releases/1.11.x/announcing-1.11.3/
-/zh/news/2021/revised-1.9-eol      	/zh/news/support/revised-1.9-eol/
 /zh/news/announcing-1.11.2         	/zh/news/releases/1.11.x/announcing-1.11.2/
 /zh/news/announcing-1.10.4         	/zh/news/releases/1.10.x/announcing-1.10.4/
 /zh/news/announcing-1.11.1         	/zh/news/releases/1.11.x/announcing-1.11.1/
@@ -408,8 +407,6 @@ https://istio.netlify.com/* https://istio.io/:splat 301!
 /zh/news/releases/1.0.x.html /zh/news/releases/1.0.x/
 /zh/news/releases/0.x/ /zh/news/releases/0.x/
 /zh/news/releases/0.x.html /zh/news/releases/0.x/
-/zh/about/case-studies/bol.com/ /zh/about/case-studies/bol.com/
-/zh/about/case-studies/bol.com.html /zh/about/case-studies/bol.com/
 /zh/news/releases/1.2.x/announcing-1.2/helm-changes/ /zh/news/releases/1.2.x/announcing-1.2/helm-changes/
 /zh/news/releases/1.2.x/announcing-1.2/helm-changes.html /zh/news/releases/1.2.x/announcing-1.2/helm-changes/
 /zh/news/releases/1.1.x/announcing-1.1/helm-changes/ /zh/news/releases/1.1.x/announcing-1.1/helm-changes/
@@ -464,8 +461,6 @@ https://istio.netlify.com/* https://istio.io/:splat 301!
 /zh/news/releases/1.10.x/announcing-1.10.5.html /zh/news/releases/1.10.x/announcing-1.10.5/
 /zh/news/releases/1.11.x/announcing-1.11.3/ /zh/news/releases/1.11.x/announcing-1.11.3/
 /zh/news/releases/1.11.x/announcing-1.11.3.html /zh/news/releases/1.11.x/announcing-1.11.3/
-/zh/news/support/revised-1.9-eol/ /zh/news/support/revised-1.9-eol/
-/zh/news/support/revised-1.9-eol.html /zh/news/support/revised-1.9-eol/
 /zh/news/releases/1.11.x/announcing-1.11.2/ /zh/news/releases/1.11.x/announcing-1.11.2/
 /zh/news/releases/1.11.x/announcing-1.11.2.html /zh/news/releases/1.11.x/announcing-1.11.2/
 /zh/news/releases/1.10.x/announcing-1.10.4/ /zh/news/releases/1.10.x/announcing-1.10.4/
@@ -740,7 +735,7 @@ https://istio.netlify.com/* https://istio.io/:splat 301!
 /zh/about/solutions.html /zh/about/solutions/
 
 # redirect current version to /latest
-/v1.14/* /latest/:splat
+/v1.13/* /latest/:splat
 
 #redirect next version to preliminary
 /v1.14/* https://preliminary.istio.io/latest/:splat

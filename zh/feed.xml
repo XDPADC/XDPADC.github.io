@@ -53,10 +53,10 @@
 
 <h2 id="credit">赞扬</h2>
 
-<p>我们要感谢 Yangmin zhu 和 @Aakash2017。</p>
+<p>我们要感谢 Yangmin Zhu 和 @Aakash2017。</p>
 ]]></description><pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate><link>/zh/news/security/istio-security-2022-001/</link><guid isPermaLink="true">/zh/news/security/istio-security-2022-001/</guid><category>CVE</category></item><item><title>对 Istio 1.10 的支持已经结束</title><description><![CDATA[<p>正如<a href="/zh/news/support/announcing-1.10-eol/">先前所宣布</a>，对 Istio 1.10 的支持正式结束。</p>
 
-<p>此时，我们将不再将安全问题和严重错误的修复移植到 1.10，因此如果您还没有升级的话，我们衷心建议您升级到最新版本的 Istio (1.14)。</p>
+<p>此时，我们将不再将安全问题和严重错误的修复移植到 1.10，因此如果您还没有升级的话，我们衷心建议您升级到最新版本的 Istio (1.13.1)。</p>
 ]]></description><pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.10-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.10-eol-final/</guid></item><item><title>发布 Istio 1.11.5 版本</title><description><![CDATA[
 
 <p>此版本包含一些漏洞修复，从而提高了系统的稳健性。这个版本说明主要描述了 Istio 1.11.4 和 Istio 1.11.5 之间的不同之处。</p>
@@ -206,9 +206,6 @@
 
     
     
-
-    
-    
         
         
         
@@ -265,9 +262,6 @@
         
             
         
-    
-
-    
     
 
     
@@ -1262,9 +1256,6 @@
 
     
     
-
-    
-    
         
         
         
@@ -1319,9 +1310,6 @@
         
         
         
-    
-
-    
     
 
     
@@ -2166,7 +2154,7 @@
 </ul>
 ]]></description><pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.10.x/announcing-1.10.6/</link><guid isPermaLink="true">/zh/news/releases/1.10.x/announcing-1.10.6/</guid></item><item><title>对 Istio 1.10 的支持将于 2021 年 12 月 30 日结束。</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/blog/2021/extended-support/">扩展支持策略</a>，像 1.10 这样的小版本在 N+2 小版本（在本例中为 1.12）之后的六周内得到支持。<a href="/zh/news/releases/1.12.x/announcing-1.12/">Istio 1.12 于 11 月 18日发布</a>，对 1.10 的支持将于 2021 年 12 月 30 日结束。</p>
 
-<p>届时，我们将停止将安全问题和严重错误的修复向后移植到 1.10，因此我们鼓励您升级到最新版本的 Istio (1.14)。如果您不这样做，您可能会将自己置于必须在短时间内进行重大升级才能获得关键修复的境地。</p>
+<p>届时，我们将停止将安全问题和严重错误的修复向后移植到 1.10，因此我们鼓励您升级到最新版本的 Istio (1.13.1)。如果您不这样做，您可能会将自己置于必须在短时间内进行重大升级才能获得关键修复的境地。</p>
 
 <p>我们关心您和您的集群，所以请善待自的集群并升级。</p>
 ]]></description><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.10-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.10-eol/</guid></item><item><title>Istio 1.12 升级说明</title><description><![CDATA[
@@ -2338,9 +2326,6 @@
 
     
     
-
-    
-    
         
         
         
@@ -2397,9 +2382,6 @@
         
             
         
-    
-
-    
     
 
     
@@ -3248,7 +3230,7 @@
 </ul>
 ]]></description><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.11.x/announcing-1.11.4/</link><guid isPermaLink="true">/zh/news/releases/1.11.x/announcing-1.11.4/</guid></item><item><title>发布 Istio 1.9.9 版本</title><description><![CDATA[
 
-<p>这是 Istio 1.9 的最终版本。我们建议您升级到最新的 Istio 支持版本，Istio (1.14)。</p>
+<p>这是 Istio 1.9 的最终版本。我们建议您升级到最新的 Istio 支持版本，Istio (1.13.1)。</p>
 
 <p>此版本包含一些错误修复以提高稳健性。 这个版本说明描述 Istio 1.9.8 和 Istio 1.9.9 之间的区别。</p>
 
@@ -3397,9 +3379,6 @@
 
     
     
-
-    
-    
         
         
         
@@ -3452,9 +3431,6 @@
         
         
         
-    
-
-    
     
 
     
@@ -4452,9 +4428,6 @@
 
     
     
-
-    
-    
         
         
         
@@ -4509,9 +4482,6 @@
         
         
         
-    
-
-    
     
 
     
@@ -5519,9 +5489,6 @@
 
     
     
-
-    
-    
         
         
         
@@ -5578,9 +5545,6 @@
         
             
         
-    
-
-    
     
 
     
@@ -6442,12 +6406,7 @@
 <li><p><strong>修复</strong> 修复了 <code>VirtualServices</code> 在不同命名空间中存在多个相同名称时发生的问题。
 (<a href="https://github.com/istio/istio/issues/35127">Issue #35127</a>)</p></li>
 </ul>
-]]></description><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.11.x/announcing-1.11.3/</link><guid isPermaLink="true">/zh/news/releases/1.11.x/announcing-1.11.3/</guid></item><item><title>修订 - 对 Istio 1.9 的支持将于 2021 年 10 月 5 日结束</title><description><![CDATA[<p>Istio <a href="/zh/blog/2021/extended-support/">增加了</a>六周支持 1.9 版本的时间窗口，以便有时间的用户升级到 Istio 1.10 或<a href="/zh/docs/setup/upgrade/canary/">直接</a>升级到 Istio 1.11。在这之前，我们已经宣布 Istio 1.9 支持将于 8 月 24 日结束，因此我们对 Istio 1.9 的新支持结束日期是 2021 年 10 月 5 日。</p>
-
-<p>届时，我们将停止对 1.9 的安全问题和关键 bug 的反向移植修复，所以我们鼓励您升级到最新版本的 Istio(1.11.1)。如果您不这么做，您可能会将自己置于必须在短时间内进行重大升级以获取关键修复程序的境地。</p>
-
-<p>我们关心您和您的集群，请善待您的集群并升级。</p>
-]]></description><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><link>/zh/news/support/revised-1.9-eol/</link><guid isPermaLink="true">/zh/news/support/revised-1.9-eol/</guid></item><item><title>Istio 1.11.2 发布公告</title><description><![CDATA[
+]]></description><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.11.x/announcing-1.11.3/</link><guid isPermaLink="true">/zh/news/releases/1.11.x/announcing-1.11.3/</guid></item><item><title>Istio 1.11.2 发布公告</title><description><![CDATA[
 
 <p>此版本包含一些 bug 修复用以提高程序的健壮性。同时此发布说明也描述了 Istio 1.11.1 和 Istio 1.11.2 之间的区别。</p>
 
@@ -6596,9 +6555,6 @@
 
     
     
-
-    
-    
         
         
         
@@ -6655,9 +6611,6 @@
         
             
         
-    
-
-    
     
 
     
@@ -7520,7 +7473,7 @@
 </ul>
 ]]></description><pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.11.x/announcing-1.11.2/</link><guid isPermaLink="true">/zh/news/releases/1.11.x/announcing-1.11.2/</guid></item><item><title>对 Istio 1.9 的支持已终止</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.9-eol/">先前宣布</a>的一样，对 Istio 1.9 版本的支持现已正式终止。</p>
 
-<p>我们将不再为 Istio 1.9 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）</p>
+<p>我们将不再为 Istio 1.9 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）</p>
 ]]></description><pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.9-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.9-eol-final/</guid></item><item><title>ISTIO-SECURITY-2021-008</title><description><![CDATA[
 
 
@@ -7739,7 +7692,7 @@ spec:
 
 <h2 id="credit">致谢</h2>
 
-<p>我们要感谢 Yangmin zhu (Google) 报告了上述一些问题。</p>
+<p>我们要感谢 Yangmin Zhu (Google) 报告了上述一些问题。</p>
 ]]></description><pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate><link>/zh/news/security/istio-security-2021-008/</link><guid isPermaLink="true">/zh/news/security/istio-security-2021-008/</guid><category>CVE</category></item><item><title>发布 Istio 1.9.8 版本</title><description><![CDATA[
 
 <p>此版本修复了在 8 月 24 日发布的帖子 <a href="/zh/news/security/istio-security-2021-008">ISTIO-SECURITY-2021-008</a> 中描述的安全问题以及一些小漏洞，提高了稳健性。本次发布说明主要描述 Istio 1.9.7 和 1.9.8 版本之间的区别。</p>
@@ -7889,9 +7842,6 @@ spec:
 
     
     
-
-    
-    
         
         
         
@@ -7944,9 +7894,6 @@ spec:
         
         
         
-    
-
-    
     
 
     
@@ -8975,9 +8922,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
 
     
     
-
-    
-    
         
         
         
@@ -9034,9 +8978,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
         
             
         
-    
-
-    
     
 
     
@@ -10050,9 +9991,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
 
     
     
-
-    
-    
         
         
         
@@ -10107,9 +10045,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
         
         
         
-    
-
-    
     
 
     
@@ -11139,9 +11074,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
 
     
     
-
-    
-    
         
         
         
@@ -11194,9 +11126,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
         
         
         
-    
-
-    
     
 
     
@@ -12054,7 +11983,7 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
 </ul>
 ]]></description><pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.9.x/announcing-1.9.7/</link><guid isPermaLink="true">/zh/news/releases/1.9.x/announcing-1.9.7/</guid></item><item><title>Istio 1.9 的支持将于 2021 年 8 月 24 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/docs/releases/supported-releases#supported-releases/">支持策略</a>，在下一个 LTS 版本发布后的三个月内，将支持 1.9 LTS 版本。由于<a href="/zh/news/releases/1.10.x/announcing-1.10/">Istio 1.10 在 5 月 18 日发布</a>，对 1.9 版本的支持将于 2021 年 8 月 24 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.9 版本，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.9 版本，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.9-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.9-eol/</guid></item><item><title>发布 Istio 1.10.3 版本</title><description><![CDATA[
@@ -12206,9 +12135,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
 
     
     
-
-    
-    
         
         
         
@@ -12263,9 +12189,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
         
         
         
-    
-
-    
     
 
     
@@ -13262,9 +13185,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
 
     
     
-
-    
-    
         
         
         
@@ -13317,9 +13237,6 @@ Istio 存在一个可远程利用的漏洞，路径中带有片段（例如#Sect
         
         
         
-    
-
-    
     
 
     
@@ -14335,9 +14252,6 @@ Istio 包含一个可远程利用的漏洞，在 <code>Gateway</code> 和 <code>
 
     
     
-
-    
-    
         
         
         
@@ -14392,9 +14306,6 @@ Istio 包含一个可远程利用的漏洞，在 <code>Gateway</code> 和 <code>
         
         
         
-    
-
-    
     
 
     
@@ -15402,9 +15313,6 @@ Istio 包含一个远程可利用的漏洞，其中 <code>Gateway</code> 和 <co
 
     
     
-
-    
-    
         
         
         
@@ -15459,9 +15367,6 @@ Istio 包含一个远程可利用的漏洞，其中 <code>Gateway</code> 和 <co
         
         
         
-    
-
-    
     
 
     
@@ -16309,7 +16214,7 @@ Istio 包含一个远程可利用的漏洞，其中 <code>Gateway</code> 和 <co
 </ul>
 ]]></description><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.10.x/announcing-1.10.1/</link><guid isPermaLink="true">/zh/news/releases/1.10.x/announcing-1.10.1/</guid></item><item><title>对 Istio 1.8 的支持已终止</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.8-eol/">先前宣布</a>的一样，对 Istio 1.8 版本的支持现已正式终止。</p>
 
-<p>我们将不再为 1.8 提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）。</p>
+<p>我们将不再为 1.8 提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.8-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.8-eol-final/</guid></item><item><title>Istio 1.9.5 发布公告</title><description><![CDATA[
 
 <p>此版本修复了我们在 5 月 11 日的文章中描述的 <a href="/zh/news/security/istio-security-2021-005">ISTIO-SECURITY-2021-005</a> 和 <a href="/zh/news/security/istio-security-2021-006">ISTIO-SECURITY-2021-006</a> 两个安全漏洞。</p>
@@ -16459,9 +16364,6 @@ Istio 包含一个远程可利用的漏洞，其中 <code>Gateway</code> 和 <co
 
     
     
-
-    
-    
         
         
         
@@ -16514,9 +16416,6 @@ Istio 包含一个远程可利用的漏洞，其中 <code>Gateway</code> 和 <co
         
         
         
-    
-
-    
     
 
     
@@ -17558,9 +17457,6 @@ Istio 包含一个可远程利用的漏洞，当网关配置了 <code>AUTO_PASST
 
     
     
-
-    
-    
         
         
         
@@ -17613,9 +17509,6 @@ Istio 包含一个可远程利用的漏洞，当网关配置了 <code>AUTO_PASST
         
         
         
-    
-
-    
     
 
     
@@ -18634,9 +18527,6 @@ Istio 包含一个可远程利用的漏洞，当网关配置了 <code>AUTO_PASST
 
     
     
-
-    
-    
         
         
         
@@ -18689,9 +18579,6 @@ Istio 包含一个可远程利用的漏洞，当网关配置了 <code>AUTO_PASST
         
         
         
-    
-
-    
     
 
     
@@ -19562,7 +19449,7 @@ Envoy 包含一个远程可利用的漏洞，其中带有空元数据映射的 H
 </ul>
 ]]></description><pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.9.x/announcing-1.9.3/</link><guid isPermaLink="true">/zh/news/releases/1.9.x/announcing-1.9.3/</guid></item><item><title>对 Istio 1.8 的支持将于 2021 年 5 月 21 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/docs/releases/supported-releases#supported-releases/">支持策略</a>，在下一个 LTS 版本发布后的三个月内，将支持 1.8 LTS 版本。 由于<a href="/zh/news/releases/1.9.x/announcing-1.9/">1.9 在 2 月 9 日发布</a>，对 1.8 版本的支持将于 2021 年 5 月 21 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.8 版本，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.8 版本，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.8-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.8-eol/</guid></item><item><title>发布 Istio 1.9.2 版本</title><description><![CDATA[
@@ -19714,9 +19601,6 @@ Envoy 包含一个远程可利用的漏洞，其中带有空元数据映射的 H
 
     
     
-
-    
-    
         
         
         
@@ -19769,9 +19653,6 @@ Envoy 包含一个远程可利用的漏洞，其中带有空元数据映射的 H
         
         
         
-    
-
-    
     
 
     
@@ -20880,9 +20761,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -20935,9 +20813,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -21840,10 +21715,10 @@ JWT 身份验证绕过未知的颁发者令牌
 </ul>
 ]]></description><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><link>/zh/news/releases/1.9.x/announcing-1.9.1/</link><guid isPermaLink="true">/zh/news/releases/1.9.x/announcing-1.9.1/</guid></item><item><title>对 Istio 1.7 的支持已终止</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.7-eol/">先前宣布</a>的一样，对 Istio 1.7 版本的支持现已正式终止。</p>
 
-<p>我们将不再为 Istio 1.7 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）。</p>
+<p>我们将不再为 Istio 1.7 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.7-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.7-eol-final/</guid></item><item><title>对 Istio 1.7 的支持将于 2021 年 2 月 19 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/docs/releases/supported-releases#supported-releases/">支持策略</a>，在下一个 LTS 版本发布后的三个月内，将支持 1.7 LTS 版本。由于 <a href="/zh/news/releases/1.8.x/announcing-1.8/">1.8 在 9 月 19 日发布</a>，对 1.7 版本的支持将于 2021 年 2 月 19 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.7 版本，因此我们建议您升级到最新版本的 Istio（1.14）。 如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.7 版本，因此我们建议您升级到最新版本的 Istio（1.13.1）。 如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.7-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.7-eol/</guid></item><item><title>发布 Istio 1.8.2 版本</title><description><![CDATA[
@@ -21995,9 +21870,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -22045,9 +21917,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -23062,9 +22931,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -23112,9 +22978,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -24113,9 +23976,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -24163,9 +24023,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -25019,7 +24876,7 @@ JWT 身份验证绕过未知的颁发者令牌
 </ul>
 ]]></description><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><link>/zh/news/releases/1.8.x/announcing-1.8.1/</link><guid isPermaLink="true">/zh/news/releases/1.8.x/announcing-1.8.1/</guid></item><item><title>对 Istio 1.6 的支持已终止</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.6-eol/">先前宣布</a>的一样，对 Istio 1.6 版本的支持现已正式终止。</p>
 
-<p>我们将不再为 Istio 1.6 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）。</p>
+<p>我们将不再为 Istio 1.6 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.6-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.6-eol-final/</guid></item><item><title>ISTIO-SECURITY-2020-011</title><description><![CDATA[
 
 
@@ -25226,9 +25083,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -25276,9 +25130,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -26294,9 +26145,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -26344,9 +26192,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -27219,7 +27064,7 @@ JWT 身份验证绕过未知的颁发者令牌
 </ul>
 ]]></description><pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate><link>/zh/news/releases/1.7.x/announcing-1.7.4/</link><guid isPermaLink="true">/zh/news/releases/1.7.x/announcing-1.7.4/</guid></item><item><title>对 Istio 1.6 的支持将于 2020 年 11 月 21 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/docs/releases/supported-releases#supported-releases/">支持策略</a>，在下一个 LTS 版本发布后的三个月内，将支持 1.6 LTS 版本。 由于 <a href="/zh/news/releases/1.7.x/announcing-1.7/">1.7 版本在 8 月 21 日发布</a>，对于 1.5 版本的支持将于 2020 年 9 月 21 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.5 版本，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.5 版本，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.6-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.6-eol/</guid></item><item><title>ISTIO-SECURITY-2020-010</title><description><![CDATA[
@@ -27432,9 +27277,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -27482,9 +27324,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -28489,9 +28328,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -28539,9 +28375,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -29547,9 +29380,6 @@ JWT 身份验证绕过未知的颁发者令牌
 
     
     
-
-    
-    
         
         
         
@@ -29597,9 +29427,6 @@ JWT 身份验证绕过未知的颁发者令牌
         
         
         
-    
-
-    
     
 
     
@@ -30478,7 +30305,7 @@ JWT 身份验证绕过未知的颁发者令牌
 </ul>
 ]]></description><pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate><link>/zh/news/releases/1.7.x/announcing-1.7.1/</link><guid isPermaLink="true">/zh/news/releases/1.7.x/announcing-1.7.1/</guid></item><item><title>对 Istio 1.5 的支持已终止</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.5-eol/">先前宣布</a>的一样，对 Istio 1.5 版本的支持现已正式终止。</p>
 
-<p>我们将不再为 Istio 1.5 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）。</p>
+<p>我们将不再为 Istio 1.5 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.5-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.5-eol-final/</guid></item><item><title>ISTIO-SECURITY-2020-009</title><description><![CDATA[
 
 
@@ -30574,7 +30401,7 @@ spec:
 <p>希望大家遵循<a href="/zh/docs/releases/security-vulnerabilities/">漏洞报告步骤</a>，以报告任何可能会导致安全漏洞的 BUG。
 ]]></description><pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate><link>/zh/news/security/istio-security-2020-009/</link><guid isPermaLink="true">/zh/news/security/istio-security-2020-009/</guid><category>CVE</category></item><item><title>对 Istio 1.5 的支持将于 2020 年 8 月 21 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/docs/releases/supported-releases/">支持策略</a>，在下一个 LTS 版本发布后的三个月内，将支持 1.5 LTS 版本。由于 <a href="/zh/news/releases/1.6.x/announcing-1.6/">1.6 版本在 5 月 21 日发布</a>，对于 1.5 版本的支持将于 2020 年 8 月 21 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.5 版本，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.5 版本，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.5-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.5-eol/</guid></item><item><title>ISTIO-SECURITY-2020-008</title><description><![CDATA[
@@ -30885,7 +30712,7 @@ spec:
 <p>希望大家遵循<a href="/zh/docs/releases/security-vulnerabilities/">漏洞报告步骤</a>，以报告任何可能会导致安全漏洞的 BUG。
 ]]></description><pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate><link>/zh/news/security/istio-security-2020-006/</link><guid isPermaLink="true">/zh/news/security/istio-security-2020-006/</guid><category>CVE</category></item><item><title>对 Istio 1.4 的支持已终止</title><description><![CDATA[<p>正如<a href="/zh/news/support/announcement-1.4-eol/">先前宣布</a>一样，对 Istio 1.4 的支持现在已经正式结束。</p>
 
-<p>我们将不再为 Istio 1.4 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）。</p>
+<p>我们将不再为 Istio 1.4 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.4-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.4-eol-final/</guid></item><item><title>ISTIO-SECURITY-2020-005</title><description><![CDATA[
 
 
@@ -30959,7 +30786,7 @@ spec:
 <p>希望大家遵循<a href="/zh/docs/releases/security-vulnerabilities/">漏洞报告步骤</a>，以报告任何可能会导致安全漏洞的 BUG。
 ]]></description><pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate><link>/zh/news/security/istio-security-2020-005/</link><guid isPermaLink="true">/zh/news/security/istio-security-2020-005/</guid><category>CVE</category></item><item><title>对 Istio 1.4 的支持将于 2020 年 6 月 5 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/docs/releases/supported-releases#support-policy">支持策略</a>，在下一个 LTS 版本发布后的三个月内，将支持 1.4 LTS 版本。由于 <a href="/zh/news/releases/1.5.x/announcement-1.5/">1.5 版本在 3 月 5 日发布</a>，对 1.4 的支持将于 2020 年 6 月 5 日结束。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.4 版本，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.4 版本，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.4-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.4-eol/</guid></item><item><title>ISTIO-SECURITY-2020-004</title><description><![CDATA[
@@ -31202,9 +31029,6 @@ signing_key: $(tr -dc &#39;a-zA-Z0-9&#39; &lt; /dev/urandom | fold -w 20 | head 
 
     
     
-
-    
-    
         
         
         
@@ -31252,9 +31076,6 @@ signing_key: $(tr -dc &#39;a-zA-Z0-9&#39; &lt; /dev/urandom | fold -w 20 | head 
         
         
         
-    
-
-    
     
 
     
@@ -32279,9 +32100,6 @@ signing_key: $(tr -dc &#39;a-zA-Z0-9&#39; &lt; /dev/urandom | fold -w 20 | head 
 
     
     
-
-    
-    
         
         
         
@@ -32329,9 +32147,6 @@ signing_key: $(tr -dc &#39;a-zA-Z0-9&#39; &lt; /dev/urandom | fold -w 20 | head 
         
         
         
-    
-
-    
     
 
     
@@ -33187,7 +33002,7 @@ signing_key: $(tr -dc &#39;a-zA-Z0-9&#39; &lt; /dev/urandom | fold -w 20 | head 
 </ul>
 ]]></description><pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate><link>/zh/news/releases/1.4.x/announcing-1.4.5/</link><guid isPermaLink="true">/zh/news/releases/1.4.x/announcing-1.4.5/</guid></item><item><title>对 Istio 1.3 的支持已终止</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.3-eol/">先前宣布</a>的一样，Istio 1.3 版本的支持现已正式终止。</p>
 
-<p>我们将不再为 Istio 1.3 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）。</p>
+<p>我们将不再为 Istio 1.3 版本提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.3-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.3-eol-final/</guid></item><item><title>ISTIO-SECURITY-2020-002</title><description><![CDATA[
 
 
@@ -33241,7 +33056,7 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
 <h2 id="credit">鸣谢</h2>
 
-<p>Istio 团队在此对 <a href="https://www.splunk.com/">Splunk</a> 的 Krishnan Anantheswaran 和 Eric zhang 提供的私人 bug 报告表示感谢。</p>
+<p>Istio 团队在此对 <a href="https://www.splunk.com/">Splunk</a> 的 Krishnan Anantheswaran 和 Eric Zhang 提供的私人 bug 报告表示感谢。</p>
 
 <h2 id="reporting-vulnerabilities">漏洞报告</h2>
 
@@ -33455,9 +33270,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -33505,9 +33317,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -34534,9 +34343,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -34584,9 +34390,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -35595,9 +35398,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -35645,9 +35445,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -36532,7 +36329,7 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 <p><strong><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8843">CVE-2020-8843</a></strong>：在某些情况下，可以绕过特定配置的 Mixer 策略。Istio-proxy 在 ingress 处接受 <code>x-istio-attributes</code> header，当 Mixer 策略有选择地应用至 source 时，等价于应用至 ingress，其可能会影响策略决策。Istio 1.3 到 1.3.6 容易受到攻击。</p>
 ]]></description><pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate><link>/zh/news/releases/1.3.x/announcing-1.3.7/</link><guid isPermaLink="true">/zh/news/releases/1.3.x/announcing-1.3.7/</guid></item><item><title>对 Istio 1.3 的支持将于 2020 年 2 月 14 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/about/release-cadence/">支持策略</a>，在下一个 LTS 版本发布后，1.3 版本会继续得到三个月的支持。由于 <a href="/zh/news/releases/1.4.x/announcing-1.4/">1.4 版本已于 11 月 14 日发布</a>，因此对 1.3 版本的支持将于 2020 年 2 月 14 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.3，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.3，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.3-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.3-eol/</guid></item><item><title>Istio 1.4.3 发布</title><description><![CDATA[
@@ -36684,9 +36481,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -36734,9 +36528,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -37611,7 +37402,7 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 </ul>
 ]]></description><pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate><link>/zh/news/releases/1.4.x/announcing-1.4.3/</link><guid isPermaLink="true">/zh/news/releases/1.4.x/announcing-1.4.3/</guid></item><item><title>对 Istio 1.2 的支持已终止</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.2-eol/">先前宣布</a>的一样，对 Istio 1.2 的支持现已正式终止。</p>
 
-<p>我们将不再为 Istio 1.2 提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14）。</p>
+<p>我们将不再为 Istio 1.2 提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.2-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.2-eol-final/</guid></item><item><title>ISTIO-SECURITY-2019-007</title><description><![CDATA[
 
 
@@ -37828,9 +37619,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -37878,9 +37666,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -38890,9 +38675,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -38940,9 +38722,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -39972,9 +39751,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -40022,9 +39798,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -41045,9 +40818,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -41095,9 +40865,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -42108,9 +41875,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -42158,9 +41922,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -43043,7 +42804,7 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 <p>要加入我们，请访问 <a href="https://discuss.istio.io">discuss.istio.io</a>，并使用您的 GitHub 账号登录！</p>
 ]]></description><pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate><link>/zh/news/releases/1.4.x/announcing-1.4/</link><guid isPermaLink="true">/zh/news/releases/1.4.x/announcing-1.4/</guid></item><item><title>对 Istio 1.2 的支持将于 2019 年 12 月 13 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/about/release-cadence/">支持策略</a>，在下一个 LTS 版本发布后，1.2 版本会继续得到三个月的支持。由于 <a href="/zh/news/releases/1.3.x/announcing-1.3/">1.3 已经在 9 月 12 日发布</a>，对 1.2 版本的支持将于 2019 年 12 月 13 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.2，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.2，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.2-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.2-eol/</guid></item><item><title>Istio 1.3.5 发布公告</title><description><![CDATA[
@@ -43195,9 +42956,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -43245,9 +43003,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -44339,9 +44094,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -44389,9 +44141,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -45413,9 +45162,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -45463,9 +45209,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -46491,9 +46234,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -46541,9 +46281,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -47430,7 +47167,7 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
 <p>由于我们在 <a href="/zh/news/security/istio-security-2019-005">10 月 8 日发布之后</a>了解到该版本存在安全漏洞，而该漏洞仍处于 1.1 版本支持的期限内，因此我们决定将 1.1 支持期限延长至原始公告之后并发布 <a href="/zh/news/releases/1.1.x/announcing-1.1.16">1.1.16</a>。然后，我们发现此版本引入了 <a href="https://github.com/istio/istio/issues/17735">HTTP header 计算大小的错误</a>因此我们决定最后发布一个补丁程序 <a href="/zh/news/releases/1.1.x/announcing-1.1.17">1.1.17</a> 发布之后，将会彻底关闭 1.1 系列版本。</p>
 
-<p>届时，我们将不会再针对安全和关键错误的修复等问题移植回 1.1，因此，我们衷心希望您将现有集群升级到最新版本的 Istio（1.14）。</p>
+<p>届时，我们将不会再针对安全和关键错误的修复等问题移植回 1.1，因此，我们衷心希望您将现有集群升级到最新版本的 Istio（1.13.1）。</p>
 ]]></description><pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.1-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.1-eol-final/</guid></item><item><title>Istio 1.1.17 发布公告</title><description><![CDATA[
 
 <p>我们非常高兴的宣布 Istio 1.1.17 已经可用。这将是最后一个 1.1.x 的补丁版本。请浏览下面的变更说明。</p>
@@ -47580,9 +47317,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -47630,9 +47364,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -48657,9 +48388,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -48707,9 +48435,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -49785,9 +49510,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -49835,9 +49557,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -50852,9 +50571,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -50902,9 +50618,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -51927,9 +51640,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -51977,9 +51687,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -53012,9 +52719,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -53062,9 +52766,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -54094,9 +53795,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -54144,9 +53842,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -55174,9 +54869,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -55224,9 +54916,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -56262,9 +55951,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -56312,9 +55998,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -57193,7 +56876,7 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 <h2 id="container-ports-are-no-longer-required">不再需要容器端口</h2>
 
 <p>以前的版本中，作为一项安全措施，要求 Pod 明确声明每个容器的 <code>containerPort</code>。Istio 1.3 有一种安全和简单的方法，可以将任何端口上的所有入站流量处
-理为 工作负载实例，而无需声明 <code>containerPort</code>。当工作负载实例向自己发送流量时，我们还完全消除了 IP 表
+理为，而无需声明 <code>containerPort</code>。当工作负载实例向自己发送流量时，我们还完全消除了 IP 表
 规则中造成的无限循环。</p>
 
 <h2 id="fully-customize-generated-Envoy-configuration">完全自定义生成 Envoy 配置</h2>
@@ -57417,9 +57100,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -57467,9 +57147,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -58494,9 +58171,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 
     
     
-
-    
-    
         
         
         
@@ -58544,9 +58218,6 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
         
         
         
-    
-
-    
     
 
     
@@ -59436,7 +59107,7 @@ Istio 1.4.0 中的一个<a href="https://github.com/istio/istio/issues/12063">�
 </ul>
 ]]></description><pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate><link>/zh/news/releases/1.1.x/announcing-1.1.14/</link><guid isPermaLink="true">/zh/news/releases/1.1.x/announcing-1.1.14/</guid></item><item><title>对 Istio 1.1 的支持将于 2019 年 9 月 19 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/about/release-cadence/">支持策略</a>，在下一个 LTS 版本发布后的三个月内，将支持 1.1 LTS 版本。由于 <a href="/zh/news/releases/1.2.x/announcing-1.2/">1.2 在 6 月 18 日发布</a>，对 1.1 的支持将于 2019 年 9 月 19 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.1，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.1，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.1-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.1-eol/</guid></item><item><title>ISTIO-SECURITY-2019-004</title><description><![CDATA[
@@ -59760,9 +59431,6 @@ EOF
 
     
     
-
-    
-    
         
         
         
@@ -59810,9 +59478,6 @@ EOF
         
         
         
-    
-
-    
     
 
     
@@ -60838,9 +60503,6 @@ EOF
 
     
     
-
-    
-    
         
         
         
@@ -60888,9 +60550,6 @@ EOF
         
         
         
-    
-
-    
     
 
     
@@ -61930,9 +61589,6 @@ EOF
 
     
     
-
-    
-    
         
         
         
@@ -61980,9 +61636,6 @@ EOF
         
         
         
-    
-
-    
     
 
     
@@ -63011,9 +62664,6 @@ EOF
 
     
     
-
-    
-    
         
         
         
@@ -63061,9 +62711,6 @@ EOF
         
         
         
-    
-
-    
     
 
     
@@ -64093,9 +63740,6 @@ EOF
 
     
     
-
-    
-    
         
         
         
@@ -64143,9 +63787,6 @@ EOF
         
         
         
-    
-
-    
     
 
     
@@ -65313,9 +64954,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -65363,9 +65001,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -66382,9 +66017,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -66432,9 +66064,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -67466,9 +67095,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -67516,9 +67142,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -68524,9 +68147,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -68574,9 +68194,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -69457,7 +69074,7 @@ $ ./setup.sh
 </ul>
 ]]></description><pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate><link>/zh/news/releases/1.2.x/announcing-1.2.1/</link><guid isPermaLink="true">/zh/news/releases/1.2.x/announcing-1.2.1/</guid></item><item><title>对 Istio 1.0 的支持已结束</title><description><![CDATA[<p>如<a href="/zh/news/support/announcing-1.0-eol/">先前宣布</a>的一样，对 Istio 1.0 的支持现已正式终止。</p>
 
-<p>我们将不再为 1.0 提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.14））。</p>
+<p>我们将不再为 1.0 提供针对安全问题和关键错误的修复程序，因此，如果您尚未升级，我们建议您升级到最新版本的 Istio（1.13.1））。</p>
 ]]></description><pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.0-eol-final/</link><guid isPermaLink="true">/zh/news/support/announcing-1.0-eol-final/</guid></item><item><title>Istio 1.2 发布公告</title><description><![CDATA[<p>我们很高兴的宣布 Istio 1.2 发布了！</p>
 
 
@@ -69605,9 +69222,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -69655,9 +69269,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -70681,9 +70292,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -70731,9 +70339,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -71772,9 +71377,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -71822,9 +71424,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -72841,9 +72440,6 @@ $ ./setup.sh
 
     
     
-
-    
-    
         
         
         
@@ -72891,9 +72487,6 @@ $ ./setup.sh
         
         
         
-    
-
-    
     
 
     
@@ -73877,7 +73470,7 @@ disablePolicyChecks: true
 <p>希望大家遵循<a href="/zh/docs/releases/security-vulnerabilities/">漏洞报告步骤</a>，以报告任何可能会导致安全漏洞的 BUG。
 ]]></description><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><link>/zh/news/security/istio-security-2019-001/</link><guid isPermaLink="true">/zh/news/security/istio-security-2019-001/</guid><category>CVE</category></item><item><title>对 Istio 1.0 的支持将于 2019 年 6 月 19 日终止</title><description><![CDATA[<p>根据 Istio 的<a href="/zh/about/release-cadence/">支持策略</a>，在下一个 LTS 版本发布后，1.0 会继续得到三个月的支持。由于 <a href="/zh/news/releases/1.1.x/announcing-1.1/">1.1 已于 3 月 19 日发布</a>，因此对 1.0 的支持将于 2019 年 6 月 19 日终止。</p>
 
-<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.0，因此我们建议您升级到最新版本的 Istio（1.14）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
+<p>届时，我们将会停止针对安全问题和关键性错误修复后的程序反向合并到 1.0，因此我们建议您升级到最新版本的 Istio（1.13.1）。如果您不这样做，可能会在短时间内为了修复关键性错误程序而进行频繁的重大升级。</p>
 
 <p>我们非常关注您和您的集群，所以请参照我们的建议并进行升级。</p>
 ]]></description><pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate><link>/zh/news/support/announcing-1.0-eol/</link><guid isPermaLink="true">/zh/news/support/announcing-1.0-eol/</guid></item><item><title>Istio 1.1.7 发布公告</title><description><![CDATA[
@@ -74029,9 +73622,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -74079,9 +73669,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -75125,9 +74712,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -75175,9 +74759,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -76217,9 +75798,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -76267,9 +75845,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -77308,9 +76883,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -77358,9 +76930,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -78431,9 +78000,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -78481,9 +78047,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -79613,9 +79176,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -79663,9 +79223,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -80755,9 +80312,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -80805,9 +80359,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -81880,9 +81431,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -81930,9 +81478,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -82981,9 +82526,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -83031,9 +82573,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -84073,9 +83612,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -84123,9 +83659,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -85146,9 +84679,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -85196,9 +84726,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -86213,9 +85740,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -86263,9 +85787,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -87294,9 +86815,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -87344,9 +86862,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -88385,9 +87900,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -88435,9 +87947,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -89458,9 +88967,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -89508,9 +89014,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -90561,9 +90064,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -90611,9 +90111,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -91735,9 +91232,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -91785,9 +91279,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -92806,9 +92297,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -92856,9 +92344,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -93836,9 +93321,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -93886,9 +93368,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -94887,9 +94366,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -94937,9 +94413,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -95962,9 +95435,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -96012,9 +95482,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
@@ -97001,9 +96468,6 @@ disablePolicyChecks: true
 
     
     
-
-    
-    
         
         
         
@@ -97051,9 +96515,6 @@ disablePolicyChecks: true
         
         
         
-    
-
-    
     
 
     
